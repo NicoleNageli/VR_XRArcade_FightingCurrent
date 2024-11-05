@@ -8,10 +8,14 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+<<<<<<< HEAD
 UserSettings/
 .vscode/
 *.csproj
 *.sln
+=======
+/[Uu]ser[Ss]ettings/
+>>>>>>> 8bac08b341f79e1e2043ffe69c97f055a510d456
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
