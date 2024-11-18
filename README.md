@@ -3,12 +3,13 @@
 Fighting Current Game<br>
 Nicole Nageli
 ## Project Description
-The player swims against a strong underwater current, grappling onto fish to propel themselves forward while navigating through physical obstacles and enemies.
+Grapple onto goblin sharks and collect bioluminescent jellyfish while navigating through hydrothermal vents and deep-sea dangers.
+
 ## Feature Breakdown
 ### Grappling Hook: Use the right trigger to grapple onto fish
 Estimated Challenge - 5: 1, I have already made a grappling hook but need to fine tune it for this project
 ### Enemy Activation: Enemies activate when the player gets close
-Estimated Challenge - 5: 2, can add a sphere collider that’s a trigger, moving towards the player when activated
+Estimated Challenge - 5: 2, can add a sphere collider that’s a trigger, moving towards the player when activated (never mind, did jellyfish collection score instead)
 ### Enemy Shoot: Use the left trigger to shoot at enemies
 Estimated Challenge - 5: 2, we’ve made a playerShoot feature before
 ### Moving Infinite Environment:
@@ -23,5 +24,12 @@ Windlands
 Subnautica
 [Subnautica | Part 32 | DEEPEST POINT IN THE GAME!!](https://www.youtube.com/watch?v=GmTUJ9fuPII)
 
+Temple Run/Subway Surfers
 
+## Referenced tutorials & Assets
+https://www.youtube.com/watch?v=T8kJT3cVycc&list=PLZ1b66Z1KFKiR-IVN688Jo0BbOh4aV6Dt&index=12 
+
+Burning Match into water.wav by TRNGLE -- https://freesound.org/s/368014/ -- License: Attribution 3.0
+
+Sound by me from my short film https://youtu.be/utO5xCmCkEU?si=j8fdqH3wrto9BAp0
 
