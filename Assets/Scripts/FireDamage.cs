@@ -8,7 +8,7 @@ public class FireDamage : MonoBehaviour
     [SerializeField] AudioSource fireDeath;
     public Transform PlayerStartPoint;
     public GrapplingHook grapplingHook; 
-    public float respawnDelay = 3f; 
+    public float respawnDelay = .2f; 
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Player"))
