@@ -6,9 +6,10 @@ Nicole Nageli
 Grapple onto goblin sharks and collect bioluminescent jellyfish while navigating through hydrothermal vents and deep-sea dangers.
 
 ## Project Video
+https://youtube.com/shorts/4C9OVRw37CQ?feature=share
 
 ## Notes for Future
-add cel shader & jellyfish high score, find out why sharks get stuck sometimes
+add cel shader & jellyfish high score, find out why sharks get stuck sometimes, make left menu buttons work
 
 ## Feature Breakdown
 ### Grappling Hook: Use the right trigger to grapple onto fish
